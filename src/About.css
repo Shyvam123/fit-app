@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    margin-top: 120px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+    color: rgb(41, 99, 3);
+
+}
+
+
+
+
+
+.row {
+    width: 100%;
+    display: flex;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.about h3 {
+    color: rgb(43, 255, 0);
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.about h1 {
+    font-size: 50px;
+    font-size: 700;
+    line-height: 40px;
+    margin-bottom: 15px;
+}
+
+.about p {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.about-btn {
+    margin-top: 35px;
+}
+
+.about-img {
+    width: 100%;
+    overflow: hidden;
+}
+
+.about-img img {
+    width: 100%;
+}
