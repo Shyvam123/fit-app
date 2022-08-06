@@ -1,0 +1,16 @@
+.nav-link:hover{
+   
+    border-radius: 25%;
+    color: rgb(230, 6, 6);
+} 
+
+ .navbar-brand{
+    font-size: 2rem;
+    font-weight: 800;
+    color: rgb(233, 40, 40);
+ }
+
+ .nav-link{
+    font-weight: 700;
+ }
+
